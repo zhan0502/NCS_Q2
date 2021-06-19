@@ -15,3 +15,4 @@ The version of libaries in this implementation is as follows:<br/>
 Assumption: <br/>
 1. The raw data file is stored in 'data' folder. <br/>
 
+**Result:** Buying price for the mentioned car feature is low
