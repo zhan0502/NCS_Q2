@@ -1,5 +1,7 @@
 # NCS_Q2 
 
+**Result:** Buying price for the mentioned car feature is **low**<br/>
+
 This submission consists of two file: <br/>
 1. Q2.py is the py file to implement data manipulation<br/>
 2. model.pth is the saved prediction model
@@ -15,4 +17,3 @@ The version of libaries in this implementation is as follows:<br/>
 Assumption: <br/>
 1. The raw data file is stored in 'data' folder. <br/>
 
-**Result:** Buying price for the mentioned car feature is low
