@@ -12,6 +12,8 @@ import torch
 import os
 import nltk
 
+print("git")
+
 
 # In[2]:
 
